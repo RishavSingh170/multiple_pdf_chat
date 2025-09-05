@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+env/
+venv/
+.gemini_env/
+.gemini_env/*
+
+
+# Environment variables
+.env
+
+# PDF files
+*.pdf
+
+# Chat history
+chat_history.json
+
+# FAISS index files
+faiss_index/
+faiss_index/*
+
+# Logs and cache
+*.log
+*.cache/
+
+#containers
+.devcontainer/
+*.devcontainer/
+

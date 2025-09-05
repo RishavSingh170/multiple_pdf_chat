@@ -3,6 +3,16 @@
 This project allows you to upload multiple PDF files and ask questions based on their content . It supports persistent chat history, context-based Q&A, and chat download functionality.
 ---
 
+## ✨Features
+```
+✅ Upload and process multiple PDFs at once
+✅ Ask context-based questions from your documents
+✅ Maintain persistent chat history with expandable Q&A
+✅ Clear chat history anytime
+✅ Download chats as .txt with a custom filename
+✅ Powered by Google Generative AI + LangChain
+make it like that so i will put in the github
+```
 ## 🚀 Installation
 
 1. **Clone the repository**  

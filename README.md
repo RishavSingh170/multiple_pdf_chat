@@ -11,7 +11,6 @@ This project allows you to upload multiple PDF files and ask questions based on 
 ✅ Clear chat history anytime
 ✅ Download chats as .txt with a custom filename
 ✅ Powered by Google Generative AI + LangChain
-make it like that so i will put in the github
 ```
 ## 🚀 Installation
 
